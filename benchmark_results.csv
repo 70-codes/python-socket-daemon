@@ -1,0 +1,4 @@
+Algorithm,Execution Time (seconds)
+linear_search,2.86102294921875e-06
+binary_search,0.07240176200866699
+kmp_search,0.01766228675842285

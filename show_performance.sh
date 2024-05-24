@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+
+streamlit run performance.py --server.port 8080 --server.address 0.0.0.0
